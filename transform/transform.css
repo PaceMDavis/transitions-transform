@@ -259,7 +259,7 @@ The transform-origin property allows us to change that. */
 
 .box:hover .multiple{
   background-color: green;
-  transform: rotate(90deg) scale(2) translateY(-50%) translateX(50%);
+  transform: rotate(360deg) scale(2) translateY(-50%) translateX(50%);
 }
 
 /* ////////////////////////////////////// */
